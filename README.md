@@ -1,1 +1,2 @@
 # Movies-ETL
+ the purpose of this challenge is to create and automate and extract transform load process. The ETL process takes in Movie data from a highly unorganized Wikipedia scrape a mostly clean Kaggle data set and a ratings CSV. The program returns a clean data set and exports it to a PostgreSQL database.
